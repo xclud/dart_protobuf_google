@@ -12,6 +12,6 @@ dependencies:
 ## Usage
 
 ```dart
-import 'package:protobuf_google/protobuf_google.dart'
+import 'package:protobuf_google/protobuf_google.dart';
 ```
 
